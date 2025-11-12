@@ -1,0 +1,22 @@
+{
+    "version": "0.21.6",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/handlebargh/yatto/releases/download/v0.21.6/yatto_0.21.6_windows_amd64.zip",
+            "bin": [
+                "yatto.exe"
+            ],
+            "hash": "253fa8989c90e70f92a8da7c62fbc7d2dda57dd913a8fcd7b722fb843682e3ea"
+        },
+        "arm64": {
+            "url": "https://github.com/handlebargh/yatto/releases/download/v0.21.6/yatto_0.21.6_windows_arm64.zip",
+            "bin": [
+                "yatto.exe"
+            ],
+            "hash": "da8fe4bca8a50e3ef345214c648824d9ca4428560afe7c4aefcf8504bbba6b15"
+        }
+    },
+    "homepage": "https://github.com/handlebargh/yatto",
+    "license": "MIT",
+    "description": "Interactive VCS-based todo-list for the command-line"
+}
