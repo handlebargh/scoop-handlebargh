@@ -1,19 +1,19 @@
 {
-    "version": "0.23.0",
+    "version": "0.23.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/handlebargh/yatto/releases/download/v0.23.0/yatto_0.23.0_windows_amd64.zip",
+            "url": "https://github.com/handlebargh/yatto/releases/download/v0.23.1/yatto_0.23.1_windows_amd64.zip",
             "bin": [
                 "yatto.exe"
             ],
-            "hash": "e4ba0d7508af1b258a182332d8fbdba6f411a1b34ab710fc12058618247e1fe0"
+            "hash": "f9b051c38235767695e9dfa735d9e8aa6aff1280ab7b3d3ed29babdf17ba5cc8"
         },
         "arm64": {
-            "url": "https://github.com/handlebargh/yatto/releases/download/v0.23.0/yatto_0.23.0_windows_arm64.zip",
+            "url": "https://github.com/handlebargh/yatto/releases/download/v0.23.1/yatto_0.23.1_windows_arm64.zip",
             "bin": [
                 "yatto.exe"
             ],
-            "hash": "a654494639473420c4b4db436128e8d4b993666bcc867e62beaab12f83c7de6f"
+            "hash": "04023fb4de6e85bf6549692757b771e7db4bdafe978bc059b2fcafbbdae42ea3"
         }
     },
     "homepage": "https://github.com/handlebargh/yatto",
